@@ -7,6 +7,5 @@
   "routes": [{
       "src": "/(.*)",
       "dest": "index.js"
-    npm start
   }]
 }
